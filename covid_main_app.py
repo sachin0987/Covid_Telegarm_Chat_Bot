@@ -3,7 +3,7 @@ import requests
 import time
 import re
 from data_update import *
-TOKEN= "1596204291:AAG-WpZ1QuQaqKWA1JvQc00KW0NFzL5imXo"
+TOKEN= ""
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 # dbname ="telegram_db"
 # tablename ='test'
